@@ -1,2 +1,4 @@
 # SG-Demo
-Git repository - Author Sandeep Gawde
+Git repository 
+<br> 
+Author Sandeep Gawde
